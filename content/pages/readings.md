@@ -45,9 +45,9 @@ READINGS
 Introduction
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Choucri, Nazli, and Robert C. North. "Growth, Development, and Environmental Sustainability: Profile and Paradox." Chapter 3 in *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995. ISBN: 9780262531344.
+{{% resource_link "ac500608-195e-4a69-be92-0dfb7dcd2c70" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, and Robert C. North. "Growth, Development, and Environmental Sustainability: Profile and Paradox." Chapter 3 in *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995. ISBN: 9780262531344.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611442) Jervis, Robert. "Realism in the Study of World Politics." In *Exploration and Contestation in the Study of World Politics*. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 331-351. ISBN: 9780262611442.
+{{% resource_link "6ec8c26c-844c-46f1-8296-173e6a39b3ce" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jervis, Robert. "Realism in the Study of World Politics." In *Exploration and Contestation in the Study of World Politics*. Edited by Peter J. Katzenstein, Robert O. Keohane, and Stephen D. Krasner. Cambridge, MA: MIT Press, 1999, pp. 331-351. ISBN: 9780262611442.
 
 Hardin, Garrett. "The Tragedy of the Commons." In *Economics of the Environment: Selected Readings*. 3rd ed. Edited by Robert Dorfman and Nancy S. Dorfman. New York, NY: W.W. Norton & Company, 1993, pp. 5-19. ISBN: 9780393963106.
 
@@ -87,11 +87,11 @@ Kratochwil, Friedrich. "Of Systems, Boundaries, and Territoriality." *World Poli
 Local Conditions and Global Dilemmas
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Litfin, Karen T. "The Greening of Sovereignty: An Introduction." In *The Greening of Sovereignty in World Politics*. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 1-27. ISBN: 9780262621236.
+{{% resource_link "57896ece-7a5f-4b76-8f28-dd16015375a9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Litfin, Karen T. "The Greening of Sovereignty: An Introduction." In *The Greening of Sovereignty in World Politics*. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 1-27. ISBN: 9780262621236.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Kuehls, Thom. "Between Sovereignty and Environment: An Exploration of the Discourse of Government." In *The Greening of Sovereignty in World Politics*. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 31-53. ISBN: 9780262621236.
+{{% resource_link "57896ece-7a5f-4b76-8f28-dd16015375a9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kuehls, Thom. "Between Sovereignty and Environment: An Exploration of the Discourse of Government." In *The Greening of Sovereignty in World Politics*. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 31-53. ISBN: 9780262621236.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Wapner, Paul. "Reorienting State Sovereignty: Rights and Responsibilities in the Environmental Age." In *The Greening of Sovereignty in World Politics*. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 275-297. ISBN: 9780262621236.
+{{% resource_link "57896ece-7a5f-4b76-8f28-dd16015375a9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wapner, Paul. "Reorienting State Sovereignty: Rights and Responsibilities in the Environmental Age." In *The Greening of Sovereignty in World Politics*. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998, pp. 275-297. ISBN: 9780262621236.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part II: Cases and Comparisons**
@@ -129,11 +129,11 @@ Pezzey, John C. V., and Michael A. Toman. "Progress and Problems in the Economic
 When Environments "Strain"
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Victor, David G., Abram Chayes, and Eugene B. Skolnikoff. "Pragmatic Approaches to Regime Building for Complex International Problems." In *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995, pp. 453-74. ISBN: 9780262531344.
+{{% resource_link "ac500608-195e-4a69-be92-0dfb7dcd2c70" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Victor, David G., Abram Chayes, and Eugene B. Skolnikoff. "Pragmatic Approaches to Regime Building for Complex International Problems." In *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995, pp. 453-74. ISBN: 9780262531344.
 
 Simpson, R. David. "Economic Analysis and Ecosystems: Some Concepts and Issues." Chapter 25 in *Economics of the Environment: Selected Readings* . 5th ed. Edited by Robert N. Stavins. New York, NY: W. W. Norton & Company, 2005. ISBN: 9780393927016.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. *Environmental Impacts of Globalization and Trade: A Systems Study*. Cambridge, MA: MIT Press, 2002, chapter 5. ISBN: 9780262122450.
+{{% resource_link "3301776d-a47c-47ae-a82a-0ce8016d5d7b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lofdahl, Corey L. *Environmental Impacts of Globalization and Trade: A Systems Study*. Cambridge, MA: MIT Press, 2002, chapter 5. ISBN: 9780262122450.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -191,7 +191,7 @@ Keohane, Robert O. "International Institutions: Two Approaches." *International 
 
 Holling, C. S. "Sustainability: The Cross-Scale Dimension." In *Defining and Measuring Sustainability: The Biogeophysical Foundations*. Edited by Mohan Munasinghe and Walter Shearer. Washington, DC: The World Bank, 1995, pp. 65-75. ISBN: 9780821331347.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Weiss, Edith Brown. "Intergenerational Equity: Toward an International Legal Framework." In *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995, pp. 333-53. ISBN: 9780262531344.
+{{% resource_link "ac500608-195e-4a69-be92-0dfb7dcd2c70" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Weiss, Edith Brown. "Intergenerational Equity: Toward an International Legal Framework." In *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995, pp. 333-53. ISBN: 9780262531344.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -199,7 +199,7 @@ Holling, C. S. "Sustainability: The Cross-Scale Dimension." In *Defining and Mea
 Design Systems for Security and Sustainability
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Haas, Peter M., and Jan Sundgren. "Evolving International Environmental Law: Changing Practices of National Sovereignty." In *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995, pp. 401-429. ISBN: 9780262531344.
+{{% resource_link "ac500608-195e-4a69-be92-0dfb7dcd2c70" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Haas, Peter M., and Jan Sundgren. "Evolving International Environmental Law: Changing Practices of National Sovereignty." In *Global Accord: Environmental Challenges and International Responses*. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1995, pp. 401-429. ISBN: 9780262531344.
 
 Sands, Philippe. "International Law in the Field of Sustainable Development: Emerging Legal Principles." In *Sustainable Development and International Law.* Edited by Winfried Lang. New York, NY: Springer, 1995, pp. 53-66. ISBN: 9781859661796.
 
